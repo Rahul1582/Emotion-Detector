@@ -1,6 +1,6 @@
 # Data-Analysis
 
-We are here Classifying whether a person is taking Personal Loan or not using all the Classification Algorithms.
+We are here doing Exploratory Data Analysis of a FIFA world cup dataset.
 
 
 ## Technologies Used
@@ -9,7 +9,6 @@ We are here Classifying whether a person is taking Personal Loan or not using al
 2.Data Analysis
 3.Feature Engineering
 ```
-
 
 ## Author
 ```
