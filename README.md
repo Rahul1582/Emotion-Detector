@@ -1,6 +1,6 @@
 # Data-Analysis
 
-We are here doing Exploratory Data Analysis of a FIFA world cup dataset.
+We are here doing Exploratory Data Analysis on a dataset of FIFA World Cup.
 
 
 ## Technologies Used
