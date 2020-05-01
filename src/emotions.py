@@ -22,7 +22,7 @@ test_dir = 'data/test'
 train_num = 28709
 test_num = 7178
 batch_size = 64
-epochs = 70
+epochs = 50
 
 train_datagen = ImageDataGenerator(rescale=1./255)
 val_datagen = ImageDataGenerator(rescale=1./255)
